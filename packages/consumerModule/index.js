@@ -6,3 +6,5 @@ console.log('------------Consumer Module------------');
 console.log(`Addition a+b: ${add(4,5)}`);
 console.log(`Substraction a-b: ${substract(5,4)}`);
 console.log('---------------------------------------');
+
+/*  Run lerna bootstrap to set up node_modules like npm install or yarn */
